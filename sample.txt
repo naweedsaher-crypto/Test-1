@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is first lines
+=======
+This is first line
+This is 2nd line
+>>>>>>> 616b324e9197b66e0844e46fae4cf782cf701515
